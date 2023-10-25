@@ -1,0 +1,9 @@
+.pokemon-details{
+    font-size: xx-large;
+    color: black;
+    margin-top: 1rem;
+}
+
+.pokemon-details > span {
+    letter-spacing: 0.2rem;
+}
